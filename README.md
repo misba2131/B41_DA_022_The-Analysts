@@ -41,7 +41,7 @@ The Project Aims to understand:
 4. Trends of Popular Content, etc
 
 The Dataset Contains Following:
-1. 19492 rows.
+1. 19,492 rows.
 2. 9 Columns.
    Key Columns  are Title, Genres, Type, Years, and IMDB Rating.
    
